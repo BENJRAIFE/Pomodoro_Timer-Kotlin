@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pomodoro</string>
+
+        <string name="take_pomodoro">Start a Pomodoro</string>
+        <string name="keep_going">Keep going ....</string>
+        <string name="start">Start</string>
+        <string name="reset">Reset</string>
+        <string name="time">25:00</string>
+
+</resources>
