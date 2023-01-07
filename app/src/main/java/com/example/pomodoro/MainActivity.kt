@@ -47,7 +47,7 @@ class MainActivity : AppCompatActivity() {
             }
             override fun onFinish() {
                 isTimerStart=false
-                Toast.makeText(this@MainActivity, "finish!", Toast.LENGTH_SHORT)
+              
             }
 
         }.start()
